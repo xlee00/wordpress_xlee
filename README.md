@@ -1,2 +1,2 @@
 # wordpress_xlee
-Xlee's blog PHP http://xlee.sinaapp.com/
+Xlee's blog for SAE PHP http://xlee.sinaapp.com/
